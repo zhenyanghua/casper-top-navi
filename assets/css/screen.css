@@ -1984,10 +1984,10 @@ body:not(.post-template) .post-title {
 
 
 /* ==========================================================================
-   12. Media Queries - Smaller than 600px
+   12. Media Queries - Smaller than 700px
    ========================================================================== */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     .nav {
         display: block;
     }
